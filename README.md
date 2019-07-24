@@ -8,4 +8,4 @@
 
 **CMYK**:
 The CMYK color model (/smaɪk/; process color, four color) is a subtractive color model, based on the CMY color model, used in color printing, and is also used to describe the printing process itself. CMYK refers to the four inks used in some color printing: cyan, magenta, yellow, and black.
-![RGB & CMYK] (Val-blog-posts3.png " RGB & CMYK"
+![RGB & CMYK](Val-blog-posts3.png " RGB & CMYK")
